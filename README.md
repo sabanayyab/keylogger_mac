@@ -19,6 +19,3 @@ pip install pynput
 python3 keylogger.py
 
 
-#Press keys on your keyboard, and the log will be written to mac_keylog.txt in the same directory.
-
-#The keylogger will stop when the "Esc" key is pressed.
