@@ -16,10 +16,9 @@ To run this script, you'll need Python and the `pynput` library. You can install
 ```bash
 pip install pynput
 
-```bash
 python3 keylogger.py
 
 
-Press keys on your keyboard, and the log will be written to mac_keylog.txt in the same directory.
+#Press keys on your keyboard, and the log will be written to mac_keylog.txt in the same directory.
 
-The keylogger will stop when the "Esc" key is pressed.
+#The keylogger will stop when the "Esc" key is pressed.
